@@ -25,6 +25,7 @@ Cola completa en plantilla, es circular porque el ultimo elemento apunta al prim
 
 ## Listas
  La lista enlazada es un estructura que nos permite almacenar datos de una forma organizada, al igual que los vectores pero, a diferencia de estos, esta estructura es dinámica.
+ 
 **- Lista Simple Ordenada.cpp**
 Lista enlazada en plantilla que ordena de menor a mayor los datos.
 
