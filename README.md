@@ -23,3 +23,21 @@ Cola completa en plantilla que guarda los valores utilizando una estructura "ele
 **- Cola circular.cpp**
 Cola completa en plantilla, es circular porque el ultimo elemento apunta al primero.
 
+## Listas
+ La lista enlazada es un estructura que nos permite almacenar datos de una forma organizada, al igual que los vectores pero, a diferencia de estos, esta estructura es dinámica.
+**- Lista Simple Ordenada.cpp**
+Lista enlazada en plantilla que ordena de menor a mayor los datos.
+
+**- ListaDoble.cpp**
+Lista enlazada en plantilla cuyos elementos se enlazan apuntando tanto al siguiente elemento como al anterior.
+
+**- ListaCircular.cpp**
+Lista enlazada en plantilla cuyo ultimo elemento de la lista apunta al primero.
+
+**- Lista Racionales.cpp**
+Lista enlazada de números Racionales, la lista utiliza a la clase Racional para formar la estructura.
+
+**- Lista Polinomios.cpp**
+Lista enlazada de Polinomios, contiene una clase polinomio, la cual usa a la clase monomio para construirse.
+
+
