@@ -41,4 +41,11 @@ Lista enlazada de números Racionales, la lista utiliza a la clase Racional para
 **- Lista Polinomios.cpp**
 Lista enlazada de Polinomios, contiene una clase polinomio, la cual usa a la clase monomio para construirse.
 
+## Tabla Hash
+Una tabla hash es una estructura de datos que asocia llaves o claves con valores. La operación principal que soporta de manera eficiente es la búsqueda.
+La carpeta contiene una clase Lista y una clase Excepción que ayudan al correcto funcionamiento de la Tabla Hash.
+
+**- Tabla Hash.cpp**
+Tabla Hash completa en plantilla, se le puede insertar, eliminar y buscar un elemento, vaciar la table e imprimirla. La tabla al llenarse se re-dimensiona automáticamente. El cpp incluye un programa cliente para mostrar su funcionamiento.
+
 
