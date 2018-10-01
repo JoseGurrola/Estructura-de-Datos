@@ -48,4 +48,14 @@ La carpeta contiene una clase Lista y una clase Excepción que ayudan al correct
 **- Tabla Hash.cpp**
 Tabla Hash completa en plantilla, se le puede insertar, eliminar y buscar un elemento, vaciar la table e imprimirla. La tabla al llenarse se re-dimensiona automáticamente. El cpp incluye un programa cliente para mostrar su funcionamiento.
 
+## Árboles
+ Los árboles son estructura de datos en la cual cada nodo puede tener un hijo izquierdo y un hijo derecho.
+ 
+**- Arbol.cpp**
+Árbol binario completo que tiene los siguientes metodos: Instertar, Eliminar, Saber si está vacío, Obtener el nodo raiz, saber si un nodo es hoja o no, buscar un elemento en el arbol, vaciar el arbol e imprimir en inorden, postorden y preorden.
 
+**- ArbolAVL.cpp**
+Un árbol AVL es un tipo especial de árbol binario. Fue el primer árbol de búsqueda binario auto-balanceable que se ideó. El programa tiene los sisguientes metodos: Instertar, Eliminar, Saber si está vacío, Obtener el nodo raiz, saber si un nodo es hoja o no, buscar un elemento en el arbol, vaciar el arbol e imprimir en forma ascendente.
+
+**- Monton.cpp**
+Es una estructura de datos del tipo árbol con información perteneciente a un conjunto ordenado. Los montículos máximos tienen la característica de que cada nodo padre tiene un valor mayor que el de cualquiera de sus nodos hijos, mientras que en los montículos mínimos, el valor del nodo padre es siempre menor al de sus nodos hijos.
